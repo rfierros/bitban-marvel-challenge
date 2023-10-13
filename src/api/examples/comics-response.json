@@ -1,0 +1,3574 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2023 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2023 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2023 MARVEL</a>",
+  "etag": "ec00be57804bf1124281f44d3d7171c613341721",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 71,
+    "count": 20,
+    "results": [
+      {
+        "id": 99746,
+        "digitalId": 61244,
+        "title": "Spider-Man (2022) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2023-08-23T13:02:39-0400",
+        "isbn": "",
+        "upc": "75960620327700411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/99746",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/99746/spider-man_2022_4?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Man-4/digital-comic/61244?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61244&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34328",
+          "name": "Spider-Man (2022 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/105676",
+            "name": "Spider-Man (2022) #4 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/105788",
+            "name": "Spider-Man (2022) #4 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-11-21T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-12-16T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2022-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/63b477fd894a2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/63b477fd894a2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99746/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/359",
+              "name": "John Dell",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12983",
+              "name": "Dan Slott",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99746/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011088",
+              "name": "Morlun"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017815",
+              "name": "Silk (Cindy Moon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010795",
+              "name": "Spider-Woman (Charlotte Witter)"
+            }
+          ],
+          "returned": 6
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99746/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/220592",
+              "name": "cover from Spider-Man (2022) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/220593",
+              "name": "story from Spider-Man (2022) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99746/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 99745,
+        "digitalId": 61074,
+        "title": "Spider-Man (2022) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2023-08-23T13:00:22-0400",
+        "isbn": "",
+        "upc": "75960620327700311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/99745",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/99745/spider-man_2022_3?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Man-3/digital-comic/61074?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61074&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34328",
+          "name": "Spider-Man (2022 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/106432",
+            "name": "Spider-Man (2022) #3 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-10-31T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-03-13T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2022-09-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/63863cee9feb0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/63863cee9feb0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99745/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/359",
+              "name": "John Dell",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12983",
+              "name": "Dan Slott",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99745/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011088",
+              "name": "Morlun"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017815",
+              "name": "Silk (Cindy Moon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99745/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/220590",
+              "name": "cover from Spider-Man (2022) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/220591",
+              "name": "story from Spider-Man (2022) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99745/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 99744,
+        "digitalId": 60765,
+        "title": "Spider-Man (2022) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2023-08-23T12:59:22-0400",
+        "isbn": "",
+        "upc": "75960620327700211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/99744",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/99744/spider-man_2022_2?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Man-2/digital-comic/60765?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=60765&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34328",
+          "name": "Spider-Man (2022 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/105309",
+            "name": "Spider-Man (2022) #2 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/105403",
+            "name": "Spider-Man (2022) #2 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/105786",
+            "name": "Spider-Man (2022) #2 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/107467",
+            "name": "Spider-Man (2022) #2 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-11-09T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-10-10T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-02-13T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2022-09-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/63658b3e8ce52",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/63658b3e8ce52",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99744/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/359",
+              "name": "John Dell",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14157",
+              "name": "Alejandro Sanchez",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12983",
+              "name": "Dan Slott",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99744/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011088",
+              "name": "Morlun"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017815",
+              "name": "Silk (Cindy Moon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1012295",
+              "name": "Spider-Man (Noir)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99744/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/220588",
+              "name": "cover from Spider-Man (2022) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/220589",
+              "name": "story from Spider-Man (2022) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/99744/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 95780,
+        "digitalId": 58615,
+        "title": "Black Widow (2020) #15",
+        "issueNumber": 15,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-11-02T09:06:16-0400",
+        "isbn": "",
+        "upc": "75960609841501511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/95780",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/95780/black_widow_2020_15?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Black-Widow-15/digital-comic/58615?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=58615&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29700",
+          "name": "Black Widow (2020 - 2022)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/99780",
+            "name": "Black Widow (2020) #15 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/99941",
+            "name": "Black Widow (2020) #15 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/99942",
+            "name": "Black Widow (2020) #15 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/100375",
+            "name": "Black Widow (2020) #15 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-04-06T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-03-07T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-07-11T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2022-03-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/62432e9e0d663",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/62432e9e0d663",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95780/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+              "name": "Sarah Brunstad",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9998",
+              "name": "Elena Casagrande",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13174",
+              "name": "Elisabetta D'AMICO",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14330",
+              "name": "Rafael Pimentel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7245",
+              "name": "Adam Hughes",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12714",
+              "name": "Kelly Thompson",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95780/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011498",
+              "name": "Black Widow (Yelena Belova)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95780/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212624",
+              "name": "cover from Black Widow (2020) #15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212625",
+              "name": "story from Black Widow (2020) #15",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95780/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 98301,
+        "digitalId": 57793,
+        "title": "Marvel's Voices: Comunidades (2021) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2022-03-10T16:36:52-0500",
+        "isbn": "",
+        "upc": "75960620249200111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 96,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/98301",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/98301/marvels_voices_comunidades_2021_1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-s-Voices-Comunidades-1/digital-comic/57793?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57793&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/57793?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/33907",
+          "name": "Marvel's Voices: Comunidades (2021)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-12-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-09-27T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-03-14T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2021-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/61ae1ebb78eab",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/61ae1ebb78eab",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 42,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11482",
+              "name": "Jesus Aburtov",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+              "name": "Erick Arciniega",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13180",
+              "name": "Federico Blee",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12694",
+              "name": "Gustavo Duarte",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13647",
+              "name": "Lauren Amaro",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14298",
+              "name": "Julio Anta",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14119",
+              "name": "David Betancourt",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14184",
+              "name": "Terry Blas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14297",
+              "name": "Erica Harrell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14183",
+              "name": "Enid Balam",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14317",
+              "name": "Alba Glez",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13254",
+              "name": "Alitha E. Martinez",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14315",
+              "name": "Mauro Fodra",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10355",
+              "name": "Carlos Gomez",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/345",
+              "name": "Francisco Herrera",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13033",
+              "name": "Nico Leon",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13345",
+              "name": "Jose Marzan Jr.",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13055",
+              "name": "Richard Isanove",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+              "name": "Vc Ariana Maher",
+              "role": "letterer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833",
+              "name": "Ghost Rider (Robbie Reyes)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017824",
+              "name": "Ms. America (America Chavez)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011376",
+              "name": "Reptil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009638",
+              "name": "Sunspot"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010853",
+              "name": "White Tiger (Angela Del Toro)"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217671",
+              "name": "cover from Marvel's Voices: Latinx Heroes (2021) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217672",
+              "name": "story from Marvel's Voices: Latinx Heroes (2021) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 95776,
+        "digitalId": 57646,
+        "title": "Black Widow (2020) #11",
+        "issueNumber": 11,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-06-15T09:04:25-0400",
+        "isbn": "",
+        "upc": "75960609841501111",
+        "diamondCode": "JUL210714",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/95776",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/95776/black_widow_2020_11?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Black-Widow-11/digital-comic/57646?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57646&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/57646?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29700",
+          "name": "Black Widow (2020 - 2022)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/96302",
+            "name": "Black Widow (2020) #11 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-09-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-08-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-12-20T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2021-09-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/612e8e0826ce5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/612e8e0826ce5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95776/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+              "name": "Sarah Brunstad",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13174",
+              "name": "Elisabetta D'AMICO",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7245",
+              "name": "Adam Hughes",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14166",
+              "name": "Rafael De Latorre",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12714",
+              "name": "Kelly Thompson",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95776/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011498",
+              "name": "Black Widow (Yelena Belova)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95776/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212616",
+              "name": "cover from Black Widow (2020) #11",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212617",
+              "name": "story from Black Widow (2020) #11",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95776/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 93022,
+        "digitalId": 57162,
+        "title": "Black Widow (2020) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-01-28T09:03:03-0500",
+        "isbn": "",
+        "upc": "75960609841501011",
+        "diamondCode": "JUN210705",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/93022",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/93022/black_widow_2020_10?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Black-Widow-10/digital-comic/57162?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57162&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/57162?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29700",
+          "name": "Black Widow (2020 - 2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-08-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-08-02T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-11-29T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2021-08-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/60e5e16d261c4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/60e5e16d261c4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93022/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+              "name": "Sarah Brunstad",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9998",
+              "name": "Elena Casagrande",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13174",
+              "name": "Elisabetta D'AMICO",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14166",
+              "name": "Rafael De Latorre",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7245",
+              "name": "Adam Hughes",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12714",
+              "name": "Kelly Thompson",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93022/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011498",
+              "name": "Black Widow (Yelena Belova)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93022/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/207156",
+              "name": "cover from Black Widow (2020) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/207157",
+              "name": "story from Black Widow (2020) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93022/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 93021,
+        "digitalId": 57036,
+        "title": "Black Widow (2020) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-04-02T09:03:54-0400",
+        "isbn": "",
+        "upc": "75960609841500911",
+        "diamondCode": "MAY210634",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/93021",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/93021/black_widow_2020_9?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Black-Widow-9/digital-comic/57036?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57036&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/57036?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29700",
+          "name": "Black Widow (2020 - 2022)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/95632",
+            "name": "Black Widow (2020) #9 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-07-28T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-07-05T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-11-01T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2021-07-28T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/60fad343bf338",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/60fad343bf338",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93021/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+              "name": "Sarah Brunstad",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9998",
+              "name": "Elena Casagrande",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13174",
+              "name": "Elisabetta D'AMICO",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14166",
+              "name": "Rafael De Latorre",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7245",
+              "name": "Adam Hughes",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12714",
+              "name": "Kelly Thompson",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93021/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011498",
+              "name": "Black Widow (Yelena Belova)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93021/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/207154",
+              "name": "cover from Black Widow (2020) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/207155",
+              "name": "story from Black Widow (2020) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93021/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 93020,
+        "digitalId": 56984,
+        "title": "Black Widow (2020) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-02-26T09:04:52-0500",
+        "isbn": "",
+        "upc": "75960609841500811",
+        "diamondCode": "APR210912",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/93020",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/93020/black_widow_2020_8?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Black-Widow-8/digital-comic/56984?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=56984&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/56984?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29700",
+          "name": "Black Widow (2020 - 2022)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/94982",
+            "name": "Black Widow (2020) #8 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-06-30T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-06-07T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-10-04T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2021-06-30T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/609ece2894980",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/609ece2894980",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93020/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+              "name": "Sarah Brunstad",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9998",
+              "name": "Elena Casagrande",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13174",
+              "name": "Elisabetta D'AMICO",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14166",
+              "name": "Rafael De Latorre",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7245",
+              "name": "Adam Hughes",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12714",
+              "name": "Kelly Thompson",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93020/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011498",
+              "name": "Black Widow (Yelena Belova)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93020/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/207152",
+              "name": "cover from Black Widow (2020) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/207153",
+              "name": "story from Black Widow (2020) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/93020/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 91507,
+        "digitalId": 55783,
+        "title": "The Amazing Spider-Man (2018) #54.1",
+        "issueNumber": 54.1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-11-10T22:19:54-0500",
+        "isbn": "",
+        "upc": "75960609972605411",
+        "diamondCode": "OCT200581",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/91507",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/91507/the_amazing_spider-man_2018_54.1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-54-1/digital-comic/55783?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=55783&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/55783?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24396",
+          "name": "The Amazing Spider-Man (2018 - 2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-11-23T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-03-29T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-12-23T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/5fda7dee519d8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/5fda7dee519d8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91507/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "name": "David Curiel",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13604",
+              "name": "Marcelo Ferreira",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+              "name": "Vc Ariana Maher",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+              "name": "Marcio Menyz",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+              "name": "Takeshi Miyazawa",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12771",
+              "name": "Matthew Rosenberg",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13703",
+              "name": "Federico Vicentini",
+              "role": "inker"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91507/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017815",
+              "name": "Silk (Cindy Moon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            }
+          ],
+          "returned": 6
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91507/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/204096",
+              "name": "cover from The Amazing Spider-Man (2020) #54.LR",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/204097",
+              "name": "story from The Amazing Spider-Man (2020) #54.LR",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91507/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 90551,
+        "digitalId": 55677,
+        "title": "The Amazing Spider-Man (2018) #53.1",
+        "issueNumber": 53.1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-03-01T11:54:38-0500",
+        "isbn": "",
+        "upc": "75960609972605311",
+        "diamondCode": "SEP200620",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/90551",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/90551/the_amazing_spider-man_2018_53.1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-53-1/digital-comic/55677?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=55677&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/55677?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24396",
+          "name": "The Amazing Spider-Man (2018 - 2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-11-25T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-11-02T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-03-01T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-11-25T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/601afd798d0e6",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/601afd798d0e6",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90551/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "name": "David Curiel",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13604",
+              "name": "Marcelo Ferreira",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+              "name": "Marcio Menyz",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12771",
+              "name": "Matthew Rosenberg",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13703",
+              "name": "Federico Vicentini",
+              "role": "inker"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90551/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017815",
+              "name": "Silk (Cindy Moon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90551/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202161",
+              "name": "cover from The Amazing Spider-Man (2020) #53.LR",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202162",
+              "name": "story from The Amazing Spider-Man (2020) #53.LR",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90551/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 90549,
+        "digitalId": 55544,
+        "title": "The Amazing Spider-Man (2018) #51.1",
+        "issueNumber": 51.1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-02-04T21:19:36-0500",
+        "isbn": "",
+        "upc": "75960609972605111",
+        "diamondCode": "AUG200647",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/90549",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/90549/the_amazing_spider-man_2018_51.1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-51-1/digital-comic/55544?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=55544&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/55544?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24396",
+          "name": "The Amazing Spider-Man (2018 - 2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-11-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-10-12T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-02-08T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-11-04T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/601af79813582",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/601af79813582",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90549/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "name": "David Curiel",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13604",
+              "name": "Marcelo Ferreira",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+              "name": "Vc Ariana Maher",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+              "name": "Marcio Menyz",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12771",
+              "name": "Matthew Rosenberg",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13703",
+              "name": "Federico Vicentini",
+              "role": "inker"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90549/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009185",
+              "name": "Black Cat"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017815",
+              "name": "Silk (Cindy Moon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90549/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202157",
+              "name": "cover from The Amazing Spider-Man (2020) #51.LR",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202158",
+              "name": "story from The Amazing Spider-Man (2020) #51.LR",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90549/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 90548,
+        "digitalId": 55543,
+        "title": "The Amazing Spider-Man (2018) #50.1",
+        "issueNumber": 50.1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-11-10T22:18:42-0500",
+        "isbn": "",
+        "upc": "75960609972605011",
+        "diamondCode": "AUG200643",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/90548",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/90548/the_amazing_spider-man_2018_50.1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-50-1/digital-comic/55543?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=55543&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/55543?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24396",
+          "name": "The Amazing Spider-Man (2018 - 2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-10-21T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-09-28T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-01-25T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-10-21T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5f2da5075b34b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5f2da5075b34b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90548/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+              "name": "Vc Ariana Maher",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+              "name": "Marcio Menyz",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+              "name": "Sara Pichelli",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12771",
+              "name": "Matthew Rosenberg",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13703",
+              "name": "Federico Vicentini",
+              "role": "inker"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90548/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011435",
+              "name": "Green Goblin (Norman Osborn)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017815",
+              "name": "Silk (Cindy Moon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            }
+          ],
+          "returned": 6
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90548/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202155",
+              "name": "cover from The Amazing Spider-Man (2020) #50.LR",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202156",
+              "name": "story from The Amazing Spider-Man (2020) #50.LR",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90548/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 90780,
+        "digitalId": 55404,
+        "title": "Amazing Spider-Man: The Sins of Norman Osborn (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-12-16T17:13:54-0500",
+        "isbn": "",
+        "upc": "759606099741000111",
+        "diamondCode": "JUL200606",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/90780",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/90780/amazing_spider-man_the_sins_of_norman_osborn_2020_1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Amazing-Spider-Man-The-Sins-of-Norman-Osborn-1/digital-comic/55404?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=55404&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/55404?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/31209",
+          "name": "Amazing Spider-Man: The Sins of Norman Osborn (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-09-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-08-24T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-12-21T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-09-16T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5f594327ac3ff",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5f594327ac3ff",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90780/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10454",
+              "name": "Nathan Fairbairn",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13296",
+              "name": "Ryan Ottley",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13703",
+              "name": "Federico Vicentini",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90780/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011435",
+              "name": "Green Goblin (Norman Osborn)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            }
+          ],
+          "returned": 6
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90780/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202622",
+              "name": "cover from Amazing Spider-Man: The Rise of Kindred (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/202623",
+              "name": "story from Amazing Spider-Man: The Rise of Kindred (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/90780/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 74793,
+        "digitalId": 50609,
+        "title": "Marvel Super Hero Adventures: Spider-Man - Web of Intrigue (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Hold on to your hats! Spider-Man and his amicable arachnid companions are back in this action-packed tale of adventure for readers of all ages! Don’t miss all your favorite web-slingers in the latest issue of the web-tastic wonder-series that is MARVEL SUPER HERO ADVENTURES!",
+        "modified": "2019-02-07T17:09:08-0500",
+        "isbn": "",
+        "upc": "75960609322900111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hold on to your hats! Spider-Man and his amicable arachnid companions are back in this action-packed tale of adventure for readers of all ages! Don’t miss all your favorite web-slingers in the latest issue of the web-tastic wonder-series that is MARVEL SUPER HERO ADVENTURES!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/74793",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/74793/marvel_super_hero_adventures_spider-man_-_web_of_intrigue_2019_1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/MARVEL-SUPER-HERO-ADVENTURES-SPIDER-MAN-WEB-OF-INTRIGUE-1-1/digital-comic/50609?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=50609&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26905",
+          "name": "Marvel Super Hero Adventures: Spider-Man - Web of Intrigue (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-02-13T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-01-21T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-08-19T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-03-31T23:08:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5c5c55a34a038",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5c5c55a34a038",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5c5c52a666d7f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74793/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3832",
+              "name": "Sholly Fisch",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13471",
+              "name": "Jed Mackay",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/918",
+              "name": "Ty Templeton",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8652",
+              "name": "Jacob Chabot",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12796",
+              "name": "Mario DelPennino",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+              "name": "Edward Devin Lewis",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74793/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74793/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/166424",
+              "name": "cover from Marvel Super Hero Adventures: Spider-Man - TBD B (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/166425",
+              "name": "story from Marvel Super Hero Adventures: Spider-Man - TBD B (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74793/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 74792,
+        "digitalId": 50341,
+        "title": "Marvel Super Hero Adventures: Spider-Man - Across the Spider-Verse (2019) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "It’s a SPIDER-TACULAR adventure when Spider-Man is visited by his fellow web-slingers! What wall-crawling, web-swinging trouble will Peter Parker get into when he’s joined by Anya Corazon, Miles Morales and Spider-Gwen? Only one way to find out!",
+        "modified": "2018-12-26T17:03:52-0500",
+        "isbn": "",
+        "upc": "75960609321200111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It’s a SPIDER-TACULAR adventure when Spider-Man is visited by his fellow web-slingers! What wall-crawling, web-swinging trouble will Peter Parker get into when he’s joined by Anya Corazon, Miles Morales and Spider-Gwen? Only one way to find out!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/74792",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/74792/marvel_super_hero_adventures_spider-man_-_across_the_spider-verse_2019_1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/MARVEL-SUPER-HERO-ADVENTURES-SPIDER-MAN-TBD-A-1-1/digital-comic/50341?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=50341&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26904",
+          "name": "Marvel Super Hero Adventures: Spider-Man - Across the Spider-Verse (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-01-02T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-12-03T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-07-08T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2019-01-16T16:35:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/5c23ecedce7c5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/5c23ecedce7c5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5bd9d91a86372",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74792/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8652",
+              "name": "Jacob Chabot",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13270",
+              "name": "Daniel Kibblesmith",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+              "name": "Edward Devin Lewis",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74792/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74792/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/166422",
+              "name": "cover from Marvel Super Hero Adventures: Spider-Man - TBD a (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/166423",
+              "name": "story from Marvel Super Hero Adventures: Spider-Man - TBD a (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74792/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 71850,
+        "digitalId": 50050,
+        "title": "Spider-Girls (2018) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "A SPIDER-GEDDON TIE-IN! The Spider-Girls have found a way to turn the tide of Spider-Geddon! First they’ll need to fight past Inheritors Brix and Bora to rejoin the Spider-Army! Then will the cure be worse for the Web of Life and Destiny than the Inheritors’ disease?",
+        "modified": "2018-12-05T17:10:17-0500",
+        "isbn": "",
+        "upc": "75960609155300311",
+        "diamondCode": "OCT180852",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A SPIDER-GEDDON TIE-IN! The Spider-Girls have found a way to turn the tide of Spider-Geddon! First they’ll need to fight past Inheritors Brix and Bora to rejoin the Spider-Army! Then will the cure be worse for the Web of Life and Destiny than the Inheritors’ disease?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71850",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71850/spider-girls_2018_3?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Girls-3/digital-comic/50050?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=50050&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/50050?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26177",
+          "name": "Spider-Girls (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-12-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-11-12T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-06-17T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2018-12-12T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5c081c4d83f34",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5c081c4d83f34",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71850/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12604",
+              "name": "Jim Campbell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13368",
+              "name": "Cristiane Peter",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13559",
+              "name": "Andres Genolet",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12763",
+              "name": "Jody Houser",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13557",
+              "name": "Ivan Shavrin",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13133",
+              "name": "Kathleen Wisneski",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71850/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+              "name": "Spider-Girl (May Parker)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71850/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159697",
+              "name": "cover from Spider-Girls (2018) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159698",
+              "name": "story from Spider-Girls (2018) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71850/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 71849,
+        "digitalId": 49799,
+        "title": "Spider-Girls (2018) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": " A SPIDER-GEDDON TIE-IN! SPIDERLING’s parents have gone to fight the Inheritors! Now she has to prove that MAY PARKER and ANYA CORAZON made the right choice bringing her on their mission! The mysteries of the SPIDER SOCIETY have been protected for centuries, but our heroes are running out of time to unravel them! And if the Inheritors learn about their mission, the SPIDER-GIRLS won’t just be racing the clock — they’ll be running for their lives! ",
+        "modified": "2019-05-16T10:22:40-0400",
+        "isbn": "",
+        "upc": "75960609155300211",
+        "diamondCode": "SEP180885",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": " A SPIDER-GEDDON TIE-IN! SPIDERLING’s parents have gone to fight the Inheritors! Now she has to prove that MAY PARKER and ANYA CORAZON made the right choice bringing her on their mission! The mysteries of the SPIDER SOCIETY have been protected for centuries, but our heroes are running out of time to unravel them! And if the Inheritors learn about their mission, the SPIDER-GIRLS won’t just be racing the clock — they’ll be running for their lives! "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71849",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71849/spider-girls_2018_2?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Girls-2/digital-comic/49799?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=49799&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/49799?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26177",
+          "name": "Spider-Girls (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-11-28T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-11-05T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-06-03T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2018-11-28T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5bf4791e6348a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5bf4791e6348a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5b86fce6b7520",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71849/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9937",
+              "name": "Jim Charalampidis",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13518",
+              "name": "Triona Farrell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13559",
+              "name": "Andres Genolet",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12763",
+              "name": "Jody Houser",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12698",
+              "name": "Yasmine Putri",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13133",
+              "name": "Kathleen Wisneski",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71849/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+              "name": "Spider-Girl (May Parker)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71849/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159695",
+              "name": "cover from Spider-Girls (2018) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159696",
+              "name": "story from Spider-Girls (2018) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71849/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 71847,
+        "digitalId": 49550,
+        "title": "Spider-Girls (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": " A SPIDER-GEDDON TIE IN! MAY “MAYDAY” PARKER, the original SPIDER-GIRL, ANYA CORAZON, the Prime Universe SPIDER-GIRL, and ANNIE MAY PARKER, A.K.A. SPIDERLING — together for the first time! May will do anything to protect her brother from the Inheritors, and Anya’s knowledge of the mystical Spider-Totems could save the day. But how does Annie fit in? And what chance do three girls have against ageless universal forces?! ",
+        "modified": "2019-05-16T11:24:51-0400",
+        "isbn": "",
+        "upc": "75960609155300111",
+        "diamondCode": "AUG180851",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": " A SPIDER-GEDDON TIE IN! MAY “MAYDAY” PARKER, the original SPIDER-GIRL, ANYA CORAZON, the Prime Universe SPIDER-GIRL, and ANNIE MAY PARKER, A.K.A. SPIDERLING — together for the first time! May will do anything to protect her brother from the Inheritors, and Anya’s knowledge of the mystical Spider-Totems could save the day. But how does Annie fit in? And what chance do three girls have against ageless universal forces?! "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71847",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71847/spider-girls_2018_1?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Girls-1/digital-comic/49550?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=49550&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/49550?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26177",
+          "name": "Spider-Girls (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-10-24T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-10-01T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-04-29T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2018-10-24T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5bc8ff0f663cf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5bc8ff0f663cf",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/5bb3d4f79116e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5b620bc6ef4de",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71847/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13518",
+              "name": "Triona Farrell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13559",
+              "name": "Andres Genolet",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12763",
+              "name": "Jody Houser",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12698",
+              "name": "Yasmine Putri",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13133",
+              "name": "Kathleen Wisneski",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71847/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+              "name": "Spider-Girl (May Parker)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71847/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159691",
+              "name": "cover from Spider-Girls (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/159692",
+              "name": "story from Spider-Girls (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71847/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57333,
+        "digitalId": 41839,
+        "title": "Web Warriors (2015) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "The Web of Life and Destiny is damaged, and even worse – it’s getting TANGLED! How are the Web Warriors supposed to repair REALITY ITSELF?! Join us for this insane web-hopping romp that features A GIANT SPIDER-MAN ROBOT FROM THE FURTHEST CORNER OF THE MULTIVERSE AS A GUEST STAR!",
+        "modified": "2016-06-10T17:44:20-0400",
+        "isbn": "",
+        "upc": "759606083641000811",
+        "diamondCode": "APR160945",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Web of Life and Destiny is damaged, and even worse – it’s getting TANGLED! How are the Web Warriors supposed to repair REALITY ITSELF?! Join us for this insane web-hopping romp that features A GIANT SPIDER-MAN ROBOT FROM THE FURTHEST CORNER OF THE MULTIVERSE AS A GUEST STAR!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57333",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57333/web_warriors_2015_8?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Web-Warriors-8/digital-comic/41839?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=41839&utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/41839?utm_campaign=apiRef&utm_source=e41999d8797a1f8123c8c59ed6346fee"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20900",
+          "name": "Web Warriors (2015 - 2016)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-06-22T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-06-08T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-12-26T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2016-06-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/575b345f6792e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/575b345f6792e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57333/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9799",
+              "name": "David Baldeon",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12452",
+              "name": "Mike Costa",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+              "name": "Edward Devin Lewis",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+              "name": "Julian Totino Tedesco",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57333/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157",
+              "name": "Spider-Girl (Anya Corazon)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+              "name": "Spider-Girl (May Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+              "name": "Spider-Gwen (Gwen Stacy)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011347",
+              "name": "Spider-Ham (Larval Earth)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1012295",
+              "name": "Spider-Man (Noir)"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57333/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125483",
+              "name": "cover from Web Warriors (2015) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125484",
+              "name": "story from Web Warriors (2015) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57333/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

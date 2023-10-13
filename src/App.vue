@@ -29,22 +29,26 @@
               placeholder="Busca por nombre de personaje"
               clearable
               loading
+              v-model="search"
             />
           </v-col>
         </v-row>
         <v-row>
           <v-col
-            v-for="character in characters"
+            v-for="character in filterSearch"
             :key="character.id"
             cols="12"
             lg="3"
             md="4"
             sm="6"
           >
-            <v-card class="d-flex flex-column" @click="showDialog = true">
-              <!-- Imagen de ejemplo -->
+            <v-card
+              class="d-flex flex-column"
+              @click="showDialog(character)"
+              :key="character.id"
+            >
               <v-img
-                src="https://i.pinimg.com/originals/f2/18/50/f2185070a709055b6ece00fbf1b19d35.jpg"
+                :src="`${character.thumbnail.path}.${character.thumbnail.extension}`"
                 transition="fade-transition"
                 height="200px"
               />
@@ -52,56 +56,75 @@
                 class="text-body-1 font-weight-medium"
                 v-text="character.name"
               ></v-card-title>
+              <v-card-subtitle class="text-body-2 font-weight-normal">
+                {{ character.description }}
+              </v-card-subtitle>
+              <v-card-text
+                class="d-flex justify-end text-caption font-weight-medium"
+                v-text="`Comics ${character.comics.available}`"
+              ></v-card-text>
             </v-card>
           </v-col>
         </v-row>
 
-        <v-dialog max-width="800" v-model="showDialog">
-          <v-card>
-            <v-toolbar color="primary" dark>Placeholder</v-toolbar>
-            <v-card-text class="pt-5">
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipiscing elit, fusce
-                litora nibh libero ultricies conubia nostra, id vulputate luctus
-                augue sed tellus.
-              </p>
-              <p>
-                Fusce tristique felis pharetra malesuada quisque viverra,
-                vehicula sagittis feugiat posuere sed primis morbi.
-              </p>
-              <p>
-                Interdum nisi rhoncus nostra montes. Vivamus erat tempus dictum
-                taciti nulla mi ligula duis, nunc vehicula pellentesque
-                imperdiet placerat sapien lectus hac rutrum, parturient
-                habitasse tellus suscipit ac semper interdu.
-              </p>
-            </v-card-text>
-            <v-card-actions class="justify-end">
-              <v-btn text @click="showDialog = false">Ok</v-btn>
-            </v-card-actions>
-          </v-card>
-        </v-dialog>
+        <hero-detail
+          :show-dialog="showDialog"
+          :character="character"
+          @closeDialog="closeDialog"
+          v-if="dialogVisible"
+        />
       </v-container>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import { getCharactersByText } from "@/api";
+import { getMarvelData } from "@/api";
 import bitbanLogo from "@/assets/bitban-logo.png";
 import marvelLogo from "@/assets/marvel-logo.svg";
+import HeroDetail from "@/components/HeroDetail.vue";
 
 export default {
   name: "App",
-  components: {},
+  components: { HeroDetail },
   data: () => ({
     characters: [],
-    showDialog: false,
+    character: {},
+
+    dialogVisible: false,
     bitbanLogo,
     marvelLogo,
+    search: "",
   }),
   async mounted() {
-    this.characters = await getCharactersByText("example");
+    //this.characters = await getCharactersByText("example");
+    this.characters = await getMarvelData();
+  },
+  methods: {
+    showDialog(character) {
+      this.character = character;
+      this.dialogVisible = true;
+    },
+    closeDialog() {
+      this.dialogVisible = false;
+    },
+  },
+  computed: {
+    filterSearch: function () {
+      if (this.characters) {
+        if (this.search) {
+          return this.characters.filter((newlist) => {
+            return newlist.name
+              .toLowerCase()
+              .includes(this.search.toLowerCase());
+          });
+        } else {
+          return this.characters;
+        }
+      } else {
+        return [];
+      }
+    },
   },
 };
 </script>
